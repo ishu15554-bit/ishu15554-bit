@@ -175,7 +175,7 @@ Data Analyst Career
 <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
 </a>
 
-<a href="YOUR_PORTFOLIO_URL">
+<a href="https://ishukaushik.netlify.app/">
 <img src="https://img.shields.io/badge/Portfolio-Visit-111827?style=for-the-badge&logo=googlechrome&logoColor=white">
 </a>
 
